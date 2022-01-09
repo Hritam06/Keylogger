@@ -2,7 +2,7 @@
 
 ## I have created a `Keylogger` using Python.
 
-### This Keylogger will track the activities (keys pressed) of a keyboard and will save the activities (keys pressed) in a text file.
+### This Keylogger will track the activities (keys pressed) on a keyboard and will save the activities (keys pressed) in a text file.
 
 ### Library used :- `pynput`
 
